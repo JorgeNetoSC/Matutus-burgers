@@ -57,7 +57,7 @@ const menuItems: MenuItem[] = [
     id: 5,
     name: "OXENTE",
     description: "2 Carne bovinas de 80g queijo cheddar maionese e bacon",
-    price: 20.0,
+    price: 22.0,
     category: "burgers",
   },
   // SUPREMOS
@@ -80,7 +80,7 @@ const menuItems: MenuItem[] = [
     id: 8,
     name: "MATUTÃO",
     description: "2 Carne bovinas de 150g queijo cheddar,bacon,ovo, carne de sol desfiada.",
-    price: 28.0,
+    price: 30.0,
     category: "supremos",
   },
   // Bebidas e acompanhamentos
